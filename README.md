@@ -18,23 +18,14 @@
 
 ♻️ Download
 
-    User Data：https://workflow.is/workflows/7100cebf06ad4adead9aac76e45e50b2
-
-    Rule OTA：https://workflow.is/workflows/c4dc05309bd04bb1a69b273cf6bbb9c4
-
-
-    Surge 视频教程：https://youtu.be/IRJOAnPZWJM
-
-    Shadowrocket 视频教程：https://youtu.be/nPFHi99PYww
-
-    PS：基于 爱兔联盟.com 提供的节点快速获取并使用
-
-
+    Surge：https://raw.githubusercontent.com/lhie1/Surge/master/Surge.conf
+    
+    Shadowrocket：https://raw.githubusercontent.com/lhie1/Surge/master/Shadowrocket.conf
 
     Hosts：https://async.be/Rule/Basic/Hosts
     （免服务器 / 自动更新 ／ 支持 google、instagram、twitter 等主流外网）
 
-    Telegram：http://t.me/RuleNews
+    Telegram：https://telegram.me/rulenews
     （更新日志 / 新内容发布 ／ 更方便快捷获取更新内容 ／ 进阶功能教程）
 
 🤖️ Android SSR ACL
@@ -45,7 +36,20 @@
 
     全平台：Adguard - https://adguard.com/en/welcome.html
 
+🆙 Workflow
 
+	06/08
+	User Data（Surge / Shadowrocket）：https://workflow.is/workflows/07495a1086dd4d99998b9e6edac2b0da
+
+	06/21
+	Rule OTA（Surge / Shadowrocket）：https://workflow.is/workflows/f6145c8daf9244c89be8a5fd97c4220d
+
+
+    Surge 视频教程：https://youtu.be/IRJOAnPZWJM
+
+    Shadowrocket 视频教程：https://youtu.be/nPFHi99PYww
+
+    PS：基于 爱兔联盟.com 提供的节点快速获取并使用
 
 # line
 
@@ -53,7 +57,7 @@ About | Raw |
 ---------|:---------:
 新浪微博 | [@lhie1](http://www.weibo.com/1748625493)
 Telegram 讨论组| https://telegram.me/lhie1x
-Telegram 通知频道| http://t.me/RuleNews
+Telegram 通知频道| https://t.me/rulenews
 购买翻墙服务| [爱兔联盟（通往新宇宙的船票）](https://爱兔联盟.com)
 
 Tutor | Raw |
@@ -69,11 +73,11 @@ Tutor | Raw |
 
 ### ☁️ Proxy & 🔰 Proxy & 🍎 Proxy
 
-	☁️ Proxy：管控国外的流量；🌍 Direct - 直连，不可访问外网；代理服务器 - 可访问外网
+	☁️ Proxy：🌍 Direct - 直连，不可访问外网；代理服务器 - 可访问外网
 
-    🔰 Proxy：管控国内的流量；🌍 Direct - 智能分流 (Pac)；☁️ Proxy - 全局代理
+    🔰 Proxy：🌍 Direct - 智能分流 (Pac)；☁️ Proxy - 全局代理
 
-    🍎 Proxy： 管控苹果的流量；如果苹果某些服务直连困难，设其为代理，可能会改善一些问题：🍎 Proxy - 代理服务器
+    🍎 Proxy： 如果某些服务直连困难，🍎 Proxy - 代理服务器，可能会改善一些问题。
 
     建议 ： ☁️ Proxy - 代理服务器；🔰 Proxy - 🌍 Direct ；🍎 Proxy - 🌍 Direct/代理服务器
 
